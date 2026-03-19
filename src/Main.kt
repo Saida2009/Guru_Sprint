@@ -4,5 +4,5 @@ fun main(){
     val bool_string: Boolean
 
     println("Сделала")
-    println("Привет, Hauti")
+    println("Привет, Hauti again")
 }
